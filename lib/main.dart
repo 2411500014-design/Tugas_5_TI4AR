@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       home: CounterPage(),
       debugShowCheckedModeBanner: false,
     );
-  }t
+  }
 }
 
 class CounterPage extends StatefulWidget {
